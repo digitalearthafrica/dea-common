@@ -3,6 +3,7 @@ name = "dea-common"
 version = "0.1.0"
 description = ""
 authors = ["jinjun sun <jijun.sun@ga.gov.au>"]
+homepage = "https://github.com/digitalearthafrica/dea-common.git"
 
 [tool.poetry.dependencies]
 python = "^3.6"
