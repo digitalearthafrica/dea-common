@@ -6,6 +6,7 @@ authors = ["jinjun sun <jijun.sun@ga.gov.au>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
+joblib = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
