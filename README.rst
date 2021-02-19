@@ -10,7 +10,17 @@ In the repo root, run
 ```bash
 poetry build
 ```
+config the testpypi by following command:
+```bash
+poetry config repositories.test https://test.pypi.org/legacy/
+```
+Then you are required to fill in your user name and password.
 
-# publish the repo 
-Use testpypi to test the releae [testpypi](https://packaging.python.org/guides/using-testpypi/).
-You will find you packages on: https://test.pypi.org/manage/projects/
+One published testing is here: https://test.pypi.org/project/dea-common/
+
+# publish the repo
+
+Use testpypi to test the releae according to the tutorial on [using-testpypi](https://packaging.python.org/guides/using-testpypi/).
+
+You can search you packages on: https://test.pypi.org/manage/projects/
+
