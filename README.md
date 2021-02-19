@@ -1,10 +1,10 @@
 # Scripts
 
-repo dependencies is being managed by [poetry](https://python-poetry.org/)
+This repo dependencies is being managed by [poetry](https://python-poetry.org/)
 
 Python functions and algorithms developed to assist in analysing DE Africa data (e.g. loading data, plotting, spatial analysis)
 
-## Howw to build the package
+## How to build the package
 
 install poetry first.
 
