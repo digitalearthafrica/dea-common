@@ -1,4 +1,4 @@
-# Scripts managed by [poetry](https://python-poetry.org/)
+## Scripts managed by [poetry](https://python-poetry.org/)
 
 Python functions and algorithms developed to assist in analysing DE Africa data (e.g. loading data, plotting, spatial analysis)
 
@@ -18,7 +18,7 @@ Then you are required to fill in your user name and password.
 
 One published testing is here: https://test.pypi.org/project/dea-common/
 
-# publish the repo
+## publish the repo
 
 Use testpypi to test the releae according to the tutorial on [using-testpypi](https://packaging.python.org/guides/using-testpypi/).
 
